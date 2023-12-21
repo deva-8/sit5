@@ -1,0 +1,6 @@
+<tickets>
+    <ticket type="Стандартный" price="50.0" quantity="10" />
+    <ticket type="VIP" price="100.0" quantity="5" />
+    <ticket type="Детский" price="25.0" quantity="7" />
+    <ticket type="Семейный" price="120.0" quantity="6" />
+</tickets>
